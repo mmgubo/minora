@@ -9,11 +9,9 @@ class LogoContainer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: constraints.maxWidth * 0.55,
+      height: constraints.maxWidth * 0.50,
       child: Image(
-        image: theme == 'L'
-            ? AssetImage('assets/images/fms_logo_dark.png')
-            : AssetImage('assets/images/fms_logo_light.png'),
+        image:  AssetImage('assets/images/pencil_chalk_logo.png'),
         fit: BoxFit.contain,
       ),
     );
