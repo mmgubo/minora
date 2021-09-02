@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61472493127",
+    "project_id": "compound-825d0",
+    "storage_bucket": "compound-825d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61472493127:android:475028a74dea3b37f66b62",
+        "android_client_info": {
+          "package_name": "com.example.minora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61472493127-is5nvb3svhejqpo49tjbcu7ggb6urpvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQv208x-8sCaDUndlZ1lKtCOTuaUWUWQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61472493127-is5nvb3svhejqpo49tjbcu7ggb6urpvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
