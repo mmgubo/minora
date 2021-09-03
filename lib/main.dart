@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:minora/src/ui_logic/screens/registration_screen.dart';
+import 'locator.dart';
 
 void main() {
+
+  // Register all the models and services before the app starts
+  setupLocator();
+  
   runApp(MyApp());
 }
 
